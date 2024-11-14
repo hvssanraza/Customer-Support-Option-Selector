@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/Customer Support Option Selector/cmake-build-debug/CMakeFiles/Customer_Support_Option_Selector.dir
+C:/Users/HP/CLionProjects/Customer Support Option Selector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/Customer Support Option Selector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
